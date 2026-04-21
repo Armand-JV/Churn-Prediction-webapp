@@ -1,3 +1,4 @@
+This is the prod repo of https://github.com/Armand-JV/CYO-Project-MLG382
 # Telco Customer Churn Prediction
 
 **Predict whether a customer will churn (cancel their subscription) in the next month**  
