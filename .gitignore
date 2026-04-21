@@ -9,19 +9,7 @@ venv311/
 env/
 ENV/
 .env
-# Data (we never commit raw data > 100 MB)
-data/raw/*.csv
-data/processed/*.csv
-*.csv
 
-# Models
-*.pkl
-*.joblib
-*.h5
-
-#Figures
-*.png
-*.jpg
 
 #Markdown and XML
 *.md

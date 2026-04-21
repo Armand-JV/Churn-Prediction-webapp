@@ -1,0 +1,5 @@
+Model,F1-Score,ROC-AUC,PR-AUC,Churn_Recall
+XGBoost,0.6347,0.8479,0.6575,0.8128
+Random Forest,0.6338,0.8423,0.652,0.7567
+LightGBM,0.6267,0.8423,0.6518,0.8102
+Logistic Regression,0.6188,0.8387,0.6346,0.7834
